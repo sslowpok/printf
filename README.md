@@ -1,1 +1,2 @@
-# printf
+# Objective:
+  recode the printf C function
